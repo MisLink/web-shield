@@ -23,6 +23,8 @@
 	},
 	"compatibility_flags": ["nodejs_compat"],
 	"compatibility_date": "2024-09-23",
+	"preview_urls": false,
+	"workers_dev": false,
 	/**
 	 * Smart Placement
 	 * https://developers.cloudflare.com/workers/configuration/smart-placement/#smart-placement
